@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bGt1cjIydjVlZ2I5cmprZWNqbnY0aHVxNmRsYnI2MmRzM2w3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TK8NlBpFqo23bYA/giphy.gif" width="300" />
-</div>
+
 
 <h1 align="center">
-  Olá, eu sou [Seu Nome Completo] 👋
+  Olá, eu sou coxaxi 👋
 </h1>
 <h3 align="center">
   Desenvolvedor Front-end apaixonado por React.js ⚛️
@@ -81,40 +79,6 @@
     <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
   </a>
 </p>
-
----
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=dark"
-  />
-</div>
-
----
-## 🚀 Meus Projetos Principais
-
-<p align="center">
-  <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME_DO_REPO_1]">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USUARIO_GITHUB]&repo=[NOME_DO_REPO_1]&theme=dark" 
-    />
-  </a>
-  <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME_DO_REPO_2]">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USUARIO_GITHUB]&repo=[NOME_DO_REPO_2]&theme=dark"
-    />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EhwPoY/giphy.gif" width="60">
