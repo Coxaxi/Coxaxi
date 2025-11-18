@@ -21,14 +21,8 @@
 - ⚡ Fato curioso:  Meu primeiro "hello world" foi em um bloco de notas.
 
 <div align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:[seu-email@provedor.com]">
+  <a href="mailto:[202415210059@ifba.edu.br]">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://[SEU_SITE_PESSOAL].com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-007BFF?style=for-the-badge&logo=React&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
 
@@ -38,9 +32,6 @@
 <p align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
   </a>
   
   <br/>
@@ -68,9 +59,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://styled-components.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
   </a>
 </p>
 
