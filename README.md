@@ -4,7 +4,7 @@
   Olá, eu sou coxaxi 👋
 </h1>
 <h3 align="center">
-  Desenvolvedor Front-end apaixonado por React.js ⚛️
+  Desenvolvedor apaixonado por React.js ⚛️
 </h3>
 <p align="center">
   Transformando ideias em código e interfaces incríveis.
@@ -15,7 +15,7 @@
 ---
 ## 👨‍💻 Sobre Mim
 - 🔭 Atualmente trabalhando em... NeoTrash
-- 🌱 Aprendendo sobre... React e PH
+- 🌱 Aprendendo sobre... React, PHP e MySql
 - 💬 Pergunte-me sobre: React, JavaScript, CSS e Desenvolvimento Web
 - 📫 Como me encontrar: 202515210059@ifba.edu.br
 - ⚡ Fato curioso:  Meu primeiro "hello world" foi em um bloco de notas.
@@ -41,12 +41,6 @@
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
   
   <br/>
