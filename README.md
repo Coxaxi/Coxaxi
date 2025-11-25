@@ -9,7 +9,6 @@
 <p align="center">
   Transformando ideias em código e interfaces incríveis.
   <br />
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO_GITHUB]&style=flat-square&color=blueviolet" alt="Contador de Visitas" />
 </p>
 
 ---
