@@ -14,7 +14,7 @@
 
 ---
 ## 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando em... NeoTrash
+- 🔭 Atualmente trabalhando em... RitaCakes
 - 🌱 Aprendendo sobre... React, PHP e MySql
 - 💬 Pergunte-me sobre: React, JavaScript, CSS e Desenvolvimento Web
 - 📫 Como me encontrar: 202515210059@ifba.edu.br
