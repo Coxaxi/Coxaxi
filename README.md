@@ -13,7 +13,7 @@
 
 ---
 ## 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando em... RitaCakes
+- 🔭 Atualmente trabalhando em... Projeto Java de Pilhas☕
 - 🌱 Aprendendo sobre... React, PHP e MySql
 - 💬 Pergunte-me sobre: React, JavaScript, CSS e Desenvolvimento Web
 - 📫 Como me encontrar: 202515210059@ifba.edu.br
