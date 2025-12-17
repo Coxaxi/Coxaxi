@@ -6,12 +6,6 @@
   <em>Desenvolvedor full-stack focado em front-end e Java — transformando ideias em código com responsabilidade e eficiência.</em>
 </p>
 
-<div align="center">
-  <a href="mailto:202515210059@ifba.edu.br">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
