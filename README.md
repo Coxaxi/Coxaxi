@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   Olá, eu sou coxaxi 👋
 </h1>
@@ -15,7 +13,7 @@
 ## 👨‍💻 Sobre Mim
 - 🔭 Atualmente trabalhando em... Projeto Java de Pilhas☕
 - 🌱 Aprendendo sobre... React, PHP e MySql
-- 💬 Pergunte-me sobre: React, JavaScript, CSS e Desenvolvimento Web
+- 💬 Pergunte-me sobre: React, **Java**, JavaScript, CSS e Desenvolvimento Web
 - 📫 Como me encontrar: 202515210059@ifba.edu.br
 - ⚡ Fato curioso:  Meu primeiro "hello world" foi em um bloco de notas.
 
@@ -46,6 +44,12 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+
+  <br/>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
   
   <br/>
